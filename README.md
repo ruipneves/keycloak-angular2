@@ -1,5 +1,7 @@
 # keycloak-angular2
-Securing Angular 2 App with Keycloak based on routes.
+***Securing Angular 2 App with Keycloak based on routes.***
+
+**Installation:**
 
 To install generate the keycloak.json file from your Keycloak client in the admin console.
 
